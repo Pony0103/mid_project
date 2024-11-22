@@ -1,5 +1,5 @@
 # 2024 ATP Finals(Singles)
-GitHub Pgaes:
+GitHub Pgaes:https://pony0103.github.io/mid_project/
 ## 網站設計理念
 每年ATP的最後一場大賽-年終賽，匯集了年度排名前八的頂尖好手角逐這1500點積分，賽事先採取小組循環賽，每組採前2名晉級準決賽(Semi-Final)，準決賽採單淘汰賽制，晉級者可進入最後的決賽(Final)角逐金盃。剛好今年(2024)年終賽剛打完，這個網站可以讓使用者簡單查找賽事結果、球員資料和比賽高潮(Highlights)等等...
 
